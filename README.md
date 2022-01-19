@@ -1,0 +1,2 @@
+# DEVICE-COMPATIBLE-GAME
+play
